@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "abs": "^1.0.0",
-    "bible.js": "^3.0.0",
+    "bible.js": "geekmuse/bible.js#3.0.1",
     "couleurs": "^5.0.0",
     "bug-killer": "^4.0.0",
     "is-there": "^4.0.0",
